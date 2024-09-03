@@ -1,0 +1,7 @@
+typescript
+javascript
+hangman
+openai
+computer
+programming
+development
